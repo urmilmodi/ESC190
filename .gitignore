@@ -1,0 +1,20 @@
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+C/.vs/ProjectSettings.json
+C/.vs/slnx.sqlite
+C/.vs/VSWorkspaceState.json
+C/.vs/C/v15/.suo
+C/.vs/C/v15/Browse.VC.db
+C/.vs/C/v15/ipch/AutoPCH/b41a36b360556275/MAIN.ipch
+C/.vscode/c_cpp_properties.json
+C/.settings/language.settings.xml
+C/CppProperties.json
+Python/Assignments/A - Chess/sepehr.py
+Python/Assignments/A - Chess/engine.py
+Python/Assignments/A - Chess/TreeAlphaBeta.py
+Python/Assignments/A - Chess/randomchess.py
+Python/Assignments/A - Chess/massiveboards.csv
+Python/Assignments/A - Chess/TreechessPlayer.py
+ESC180 Code.lnk
